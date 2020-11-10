@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://github.com/GaoMengGu/GaoMengGu.github.io
+url: https://GaoMengGu.github.io
 # your url: https://GaoMengGu.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/GaoMengGu
+github: GaoMengGu
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
